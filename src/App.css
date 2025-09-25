@@ -1,0 +1,29 @@
+.main-title {
+    margin: 0;
+    background: #FC4C02;
+    color: white;
+    padding: 1rem;
+}
+
+.main-content {
+    background-color: #1E1E1E;
+    flex: 1 1 auto;
+    display: flex;
+    gap: 2rem;
+    min-height: 0;
+    min-width: 0;
+    overflow: hidden;
+    padding-bottom: 2rem;
+}
+
+.page-section {
+    flex: 1 1 0;
+    height: 100%;
+    min-width: 0;
+    min-height: 0;
+    overflow: auto;
+    padding: 1rem;
+    background-color: #1E1E1E;
+    border: 1px solid #333333;
+    border-radius: 6px;
+}

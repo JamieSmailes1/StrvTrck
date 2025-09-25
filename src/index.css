@@ -1,0 +1,18 @@
+html, body, #root {
+    height: 100%;
+    overflow: hidden;
+    background-color: #121212;
+    color: #CCCCCC;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 0;
+}

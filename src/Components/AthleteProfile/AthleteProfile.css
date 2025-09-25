@@ -1,0 +1,20 @@
+.athlete-profile-container {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    padding: 2rem;
+}
+
+.athlete-profile-section {
+    flex: 1 1 0;
+}
+
+.athlete-profile-section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.athlete-image {
+    border-radius: 50%;
+}

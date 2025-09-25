@@ -1,0 +1,14 @@
+.activity-header {
+    display: flex;
+    gap: 1rem; 
+    align-items: center;
+    cursor: pointer;
+}
+
+.activity-details-expander{
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
